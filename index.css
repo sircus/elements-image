@@ -1,0 +1,9 @@
+/*
+ * sircus-elements-img
+ ================================================== */
+img {
+  vertical-align: middle;
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+}
