@@ -2,12 +2,10 @@
 
 [![npm version](https://img.shields.io/npm/v/sircus-elements-image.svg?style=flat)](https://www.npmjs.com/package/sircus-elements-image)
 
-> A base image elements Module for Sircus.
-
 
 ## Installation
 
-> use npm:
+> npm:
 
 ```bash
 $ npm install sircus-elements-image
@@ -15,18 +13,18 @@ $ npm install sircus-elements-image
 
 ## Usage
 
-> use cssnext:
+> cssnext:
 
 input.css
 ```css
 @import "sircus-elements-image";
 ```
 
-> use sass:
+> sass:
 
 input.scss
-```css
-@import "node_modules/sircus-elements-image/converted";
+```scss
+@import "./node_modules/sircus-elements-image/converted";
 ```
 
 > html
